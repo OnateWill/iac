@@ -6,7 +6,7 @@ que fizéssemos um script para automatizar processos manuais, como:
 criar usuários, diretórios, grupos e permissões assim criando nossa
 primeira infraestrutura como código.
 
-O que aprendi com este projeto é que além de pensamos em controle 
+O que aprendi com este projeto é que além de pensarmos em controle 
 de versões, é que também precisamos de certas configurações de ambiente
 sendo eles virtuais ou fisicos. E um script é muito eficiente, pois
 pode ser distribuidos para todos os desenvolvedores que estão ou estarão

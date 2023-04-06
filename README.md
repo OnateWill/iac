@@ -20,3 +20,5 @@ O script foi feito pelos seguintes passos
 4. Coloquei os usuários em seus devidos grupos.
 5. Alterei as permissões de cada diretório.
 6. Alterei o grupo de cada diretório.
+
+Criei um arquivo txt do código iac.sh

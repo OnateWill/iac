@@ -1,0 +1,17 @@
+IaC -> infraestrutura como código
+
+são arquivos de configuração que incluem as 
+especificações da sua infraestrutura
+facilitando a edição e a distribuição de 
+configurações. Ela também assegura o provisionamento 
+do mesmo ambiente todas as vezes.
+
+controle de versão é muito importante para melhorar
+ou modificar.
+
+automatizar o provisionamento da infaestrutura, os
+desenvolvedores não precisam provisionar e gerenciar
+manualmente servidores, sistemas operacionais,
+armazenamento e outros componentes de infraestrutura,
+sempre que criam ou impantam uma aplicação
+
